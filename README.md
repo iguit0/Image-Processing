@@ -1,5 +1,7 @@
 <h1 align="center">Image Processing :camera::wrench:</h1>
 
+In computer science, digital image processing is the use of computer algorithms to perform image processing on digital images. As a subcategory or field of digital signal processing, digital image processing has many advantages over analog image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and signal distortion during processing. Since images are defined over two dimensions (perhaps more) digital image processing may be modeled in the form of multidimensional systems.
+
 ## Abstract :pushpin:
 This work has the purpose of putting into practice the discipline of Digital Image Processing. Concepts such as: fundamentals of digital images, intensity transformations, spatial filtering for smoothing, spatial filtering for sharpening, segmentation for edge detection and segmentation for thresholding are discussed. We used the Python language and the Anaconda environment (with Python scientific computing libraries such as NumPy, SciPy, Matplotlib and Scikit-image) for algorithm implementations and manipulations of respective images.
 
